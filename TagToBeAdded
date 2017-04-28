@@ -1,0 +1,9 @@
+
+
+//Use below tag to add resources to your pom.xml file in maven folder structure.
+
+<resources>
+     <resource>
+       <directory>[your folder here]</directory>
+     </resource>
+   </resources>
